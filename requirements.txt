@@ -1,9 +1,6 @@
+streamlit
 pandas
-matplotlib
-seaborn
+numpy
 plotly
 scikit-learn
-tensorflow
-keras
-folium
-streamlit
+category_encoders
